@@ -21,7 +21,7 @@ This GitHub documents practical security engineering labs, detection logic, KQL 
 - 🔐 Network & Infrastructure Security
 - ⚠️ Vulnerability Management
 - 🔧 Security Monitoring & Hardening
-- 🤖 Security Automation
+
 
 ---
 
