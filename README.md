@@ -2,7 +2,7 @@
 
 ## Senior Cybersecurity Engineer | SOC | Detection Engineering | SIEM | Incident Response
 
-Cybersecurity professional with **15+ years of experience** across Security Operations, SOC management, SIEM, network security, vulnerability management, threat detection, incident response, and security engineering.
+Cybersecurity professional with **15+ years of experience** in Security Operations, SOC management, SIEM, network security, vulnerability management, threat detection, incident response, and security engineering.
 
 My focus is on building and improving security operations capabilities through **detection engineering, threat hunting, security monitoring, incident investigation, and cloud security**.
 
