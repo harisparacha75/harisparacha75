@@ -81,6 +81,23 @@ I am continuously developing hands-on capabilities in:
   
 ---
 
+---
+
+## 📘 Currently Learning
+
+### DevSecOps
+
+I am currently expanding my DevOps foundation into **DevSecOps**, with a focus on understanding how security is integrated into development and delivery workflows.
+
+Current learning areas include:
+
+- Secure CI/CD concepts
+- Security automation
+- Application security fundamentals
+- Dependency and vulnerability scanning
+- Container security fundamentals
+- Security integration into development workflows
+
 ## 🧪 Security Engineering Methodology
 
 My approach to detection and investigation follows a structured workflow:
