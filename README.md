@@ -1,93 +1,106 @@
 # Hi, I'm Muhammad Haris Nawaz 👋
 
-## Security Engineer | Detection Engineering | SOC | Cloud Security
+## Senior Cybersecurity Engineer | SOC | Detection Engineering | SIEM | Incident Response
 
-Cybersecurity professional focused on **Security Operations, Detection Engineering, Threat Hunting, SIEM, Cloud Security, and DevSecOps**.
+Cybersecurity professional with **15+ years of experience** across Security Operations, SOC management, SIEM, network security, vulnerability management, threat detection, incident response, and security engineering.
 
-I build practical security solutions, detection rules, investigation workflows, and security automation.
+My focus is on building and improving security operations capabilities through **detection engineering, threat hunting, security monitoring, incident investigation, and cloud security**.
 
----
-
-## 🛡️ Core Skills
-
-- Security Operations & SOC
-- Detection Engineering
-- Threat Hunting
-- Incident Response
-- SIEM Engineering
-- Vulnerability Management
-- Cloud Security
-- DevSecOps
+This GitHub documents practical security engineering labs, detection logic, KQL queries, investigation workflows, and security research developed in simulated or authorized environments.
 
 ---
 
-## 🔧 Technologies
+## 🛡️ Security Engineering Focus
+
+- 🔎 Detection Engineering
+- 🛡️ Security Operations & SOC
+- 📊 SIEM Engineering
+- 🎯 Threat Detection & Threat Hunting
+- 🚨 Incident Response & Investigation
+- ☁️ Cloud Security
+- 🔐 Network & Infrastructure Security
+- ⚠️ Vulnerability Management
+- 🔧 Security Monitoring & Hardening
+- 🤖 Security Automation
+
+---
+
+## 🔧 Security Technology Stack
 
 ### SIEM & Security Operations
-- Microsoft Sentinel
-- IBM QRadar
-- Splunk
-- Microsoft Defender
+
+`Microsoft Sentinel` `IBM QRadar` `Splunk` `Microsoft Defender`
 
 ### Detection & Threat Hunting
-- KQL
-- Sigma
-- YARA
-- MITRE ATT&CK
 
-### Cloud & DevSecOps
-- Microsoft Azure
-- AWS
-- Docker
-- Kubernetes
-- CI/CD
+`KQL` `Sigma` `YARA` `MITRE ATT&CK`
 
-### Security & Networking
-- Network Security
-- Vulnerability Management
-- Security Monitoring
+### Cloud & Identity Security
+
+`Microsoft Azure` `Microsoft Entra ID`
+
+### Security Engineering
+
+`Network Security` `Vulnerability Management` `Incident Response`
+`Security Monitoring` `Threat Detection` `Security Hardening`
+
+---
+
+## 🚀 Featured Security Engineering Work
+
+### 🔎 Microsoft Sentinel Detection Engineering Lab
+
+A practical security engineering lab focused on:
+
+- Microsoft Sentinel detection development
+- KQL query development and optimization
+- Threat hunting
+- Security event investigation
+- MITRE ATT&CK mapping
+- False-positive analysis
+- Detection tuning
+- Incident investigation workflows
+
+👉 [View the Microsoft Sentinel Detection Engineering Lab](https://github.com/harisparacha75/sentinel-detection-engineering)
+
+---
+
+## 🎯 Current Technical Focus
+
+I am continuously developing hands-on capabilities in:
+
+- Microsoft Sentinel & KQL
+- Detection Engineering
+- Threat Hunting
+- Microsoft Defender & EDR
 - Incident Response
+- MITRE ATT&CK
+- Cloud Security
+- Security Monitoring
+- Vulnerability Management
+- Security Automation
 
 ---
 
-## 🚀 Featured Security Projects
+## 🧪 Security Engineering Methodology
 
-Coming soon:
+My approach to detection and investigation follows a structured workflow:
 
-- 🔎 Microsoft Sentinel Detection Engineering Lab
-- 🎯 Threat Hunting with KQL
-- 🛡️ Sigma Detection Rules
-- 🚨 Incident Response Lab
-- ☁️ Azure Security Lab
-- ⚙️ DevSecOps Security Lab
-
----
-
-## 📜 Certifications
-
-- CISSP
-- CEH
-- IBM QRadar
-- JNCIA
-- JNCIS
-- Lead Auditor
-
----
-
-## 📚 Currently Building
-
-- Microsoft Sentinel & KQL detection engineering
-- Threat hunting capabilities
-- Cloud security
-- Security automation
-- DevSecOps security practices
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn] (https://www.linkedin.com/in/muhammad-haris-ceh-cissp-24492a256/)
-[GitHub] (https://github.com/harisparacha75)
----
-
-> This repository contains security research, labs, detection engineering projects, and educational material developed in simulated environments.
+```text
+Threat Behavior
+      ↓
+Telemetry
+      ↓
+Detection Hypothesis
+      ↓
+Detection Logic / KQL
+      ↓
+Alert Generation
+      ↓
+Triage & Investigation
+      ↓
+MITRE ATT&CK Mapping
+      ↓
+False Positive Analysis
+      ↓
+Detection Tuning
