@@ -29,7 +29,7 @@ This GitHub documents practical security engineering labs, detection logic, KQL 
 
 ### SIEM & Security Operations
 
-`Microsoft Sentinel` `IBM QRadar` `Splunk` `Microsoft Defender`
+`Microsoft Sentinel` `IBM QRadar` `Microsoft Defender`
 
 ### Detection & Threat Hunting
 
@@ -78,8 +78,7 @@ I am continuously developing hands-on capabilities in:
 - Cloud Security
 - Security Monitoring
 - Vulnerability Management
-- Security Automation
-
+  
 ---
 
 ## 🧪 Security Engineering Methodology
